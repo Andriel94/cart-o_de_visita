@@ -1,0 +1,13 @@
+p, h1 {
+    color: #ff0000;
+}
+
+p, p {
+    color: #000000;
+}
+
+
+a:hover {
+    background-color: darkblue;
+    color: white;
+}
